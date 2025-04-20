@@ -4,5 +4,5 @@ __pycache__/
 *.log
 data/*.json
 .idea/
-.venv/
+.env/
 config.py
