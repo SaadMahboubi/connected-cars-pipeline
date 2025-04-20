@@ -1,0 +1,5 @@
+google-cloud-storage
+google-cloud-bigquery
+apache-airflow==2.7.3
+pandas
+pytest
